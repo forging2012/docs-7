@@ -19,6 +19,8 @@
 - Redis
   - [Redis持久存储-AOF&RDB](redis/Redis持久存储-AOF&RDB.md)
 
+### 好书推荐
+http://book.hongxi.org
 
 
 [*ABOUT*](ABOUTME.md)
