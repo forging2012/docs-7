@@ -12,3 +12,5 @@
   - [大规模SOA系统中的分布式事务处理](https://wenku.baidu.com/view/be946bec0975f46527d3e104.html)
 - RocketMQ
   - [RocketMQ原理与实践](rocketmq/RocketMQ.md)
+- Redis
+  - [Redis持久存储-AOF&RDB](redis/Redis持久存储-AOF&RDB.md)
