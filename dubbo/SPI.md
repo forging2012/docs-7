@@ -191,6 +191,8 @@ public interface Transporter {
 
 对于 bind() 方法，Adaptive 实现先查找 `server` key，如果该 Key 没有值则找 `transport` key 值，来决定代理到哪个实际扩展点。
 
+扩展点自适应代理类例子 [Protocol@Adaptive](Protocol@Adaptive.md)
+
 ### 扩展点自动激活
 
 对于集合类扩展点，比如：`Filter`, `InvokerListener`, `ExportListener`, `TelnetHandler`, `StatusChecker` 等，可以同时加载多个实现，此时，可以用自动激活来简化配置，如：
