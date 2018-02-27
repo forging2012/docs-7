@@ -4,12 +4,15 @@
 - Java
   - [JVM类加载机制小结](java/JVM类加载机制小结.md)
   - [JVM垃圾回收](java/JVM垃圾回收.md)
+  - [JVM内存分配](java/JVM内存分配.md)
+  - [JVM内存模型和线程安全](JVM内存模型和线程安全.md)
 - Dubbo
   - [框架设计](dubbo/design.md)
   - [扩展点加载机制](dubbo/SPI.md)
   - [实现细节](dubbo/implementation.md)
   - [分布式事务服务(DTS)](dubbo/dts.md)
   - [大规模SOA系统中的分布式事务处理](https://wenku.baidu.com/view/be946bec0975f46527d3e104.html)
+  - [分布式事务系列文章](http://blog.csdn.net/qq_27384769/article/details/79303744)
 - RocketMQ
   - [RocketMQ原理与实践](rocketmq/RocketMQ.md)
 - Redis
