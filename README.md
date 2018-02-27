@@ -7,6 +7,6 @@
   - [框架设计](dubbo/design.md)
   - [扩展点加载机制](dubbo/SPI.md)
   - [实现细节](dubbo/implementation.md)
-  - [分布式事务服务(DTS)](dubbo/dts.md)
+  - [分布式事务服务(DTS)](dubbo/DTS.md)
 - RocketMQ
   - [RocketMQ原理与实践](rocketmq/RocketMQ.md)
