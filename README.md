@@ -21,6 +21,3 @@
 
 ### 好书推荐
 http://book.hongxi.org
-
-
-[*ABOUT*](ABOUTME.md)
