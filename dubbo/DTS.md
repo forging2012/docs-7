@@ -555,8 +555,3 @@ NestedBusinessActionInterceptor 作用于 B 服务端拦截 B 的分布式服务
 1. 需要提供 DB 资源，来让 XTS 框架持久化分支事务记录
 2. 配置 NestedBusinessActionInterceptor 拦截器
 
-
-
-结论：
-
-根据业务对实时性、一致性强弱的要求以及业务的复杂程度采用适当的方案，初步来讲，简单业务采用消息日志方案，复杂业务采用DTS方案
