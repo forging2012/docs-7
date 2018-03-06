@@ -11,6 +11,7 @@
   - [框架设计](dubbo/design.md)
   - [扩展点加载机制](dubbo/SPI.md)
   - [实现细节](dubbo/implementation.md)
+  - [分布式事务简单处理](dubbo/simple_distributed_transaction.md)
   - [分布式事务服务(DTS)](dubbo/DTS.md)
   - [大规模SOA系统中的分布式事务处理](https://wenku.baidu.com/view/be946bec0975f46527d3e104.html)
   - [分布式事务系列文章](http://blog.csdn.net/qq_27384769/article/details/79303744)
